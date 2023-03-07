@@ -1,4 +1,1 @@
-module.exports = {
-    //TODO: jsdom,
-    setupFiles:['/jest.setup.js']
-}
+export default ['/jest.setup.js'];
